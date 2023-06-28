@@ -1,7 +1,7 @@
 [![MasterHead](https://previews.123rf.com/images/trueffelpix/trueffelpix1802/trueffelpix180200006/95150923-banner-programming-and-coding-background-vector-illustration-with-icons-and-keywords.jpg)]
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Rabbi</h1>
 <h3 align="center">I ❤ Competitive Programming.</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjR1ZGhxaWluYTcyczM1Y2g1YWs5NDlzYmJpbGx0cnMyNTZndmkyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-hasan-rabbi&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-hasan-rabbi" /> </p>
 
