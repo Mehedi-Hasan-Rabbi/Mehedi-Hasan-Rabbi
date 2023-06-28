@@ -7,7 +7,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi-hasan-rabbi" alt="mehedi-hasan-rabbi" /></a> </p>
 
+- 🌱 I’m currently learning **C++ STL (standard template library)**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Mehedi-Hasan-Rabbi?tab=repositories](https://github.com/Mehedi-Hasan-Rabbi?tab=repositories)
+
+- 💬 Ask me about **Problem Solving**
+
 - 📫 How to reach me **mehedi.saiyan@gmail.com**
+
+- ⚡ Fun fact **I love PC gaming.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
