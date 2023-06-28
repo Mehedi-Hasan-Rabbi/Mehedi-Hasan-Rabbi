@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]()
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]()
 <h1 align="center">Assalamualaikum Wa Rahmatullah</h1>
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Rabbi</h1>
 <h3 align="center">I ❤ Competitive Programming.</h3>
