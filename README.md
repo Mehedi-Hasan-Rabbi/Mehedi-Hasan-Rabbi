@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **C++ STL (standard template library)**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/Mehedi-Hasan-Rabbi?tab=repositories)
+  
+- 📄 Know about my experiences at [Here](https://drive.google.com/file/d/1FM5AYQvE4mtPiUeoftkI7xhJ7Wq2c2rC/view?usp=sharing)
 
 - 💬 Ask me about **Problem Solving**
 
