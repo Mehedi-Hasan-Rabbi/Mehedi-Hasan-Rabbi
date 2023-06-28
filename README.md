@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-hasan-rabbi&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-hasan-rabbi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi-hasan-rabbi" alt="mehedi-hasan-rabbi" /></a> </p>
-
 - 🌱 I’m currently learning **C++ STL (standard template library)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mehedi-Hasan-Rabbi?tab=repositories](https://github.com/Mehedi-Hasan-Rabbi?tab=repositories)
