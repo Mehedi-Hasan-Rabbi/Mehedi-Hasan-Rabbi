@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-hasan-rabbi&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-hasan-rabbi" /> </p>
 
-- 🌱 I’m currently learning **C++ STL (standard template library)**
+- 🌱 I’m currently learning **Graph Theory and Dynamic Programming.**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/Mehedi-Hasan-Rabbi?tab=repositories)
   
