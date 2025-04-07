@@ -7,6 +7,7 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Mehedi-Hasan-Rabbi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/Mehedi-Hasan-Rabbi?label=Followers&style=social" alt="GitHub Followers" />
+    ![SavePalestine](https://raw.githubusercontent.com/OneDroid/.github/refs/heads/main/images/badge/save-palestine.svg?fbclid=IwY2xjawJgI69leHRuA2FlbQIxMAABHhA6n751VcUd8VoTo04qhnskQfIZlVD4orqLUP0MBRDmQKOb-usabF2tejYY_aem_Hm8Nz_OjvwoWO42PC1Oosg)
 </p>
 
 ---
