@@ -15,7 +15,7 @@
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 🚀 About Me:
-- 🎓 CSE Graduate from **Patuakhali Science and Technology University (PSTU)**
+- 🎓 CSE Graduate from **Patuakhali Science and Technology University**
 - 🌱 Currently mastering **Graph Theory & Dynamic Programming**
 - 💻 Exploring **Backend Development** with Django & API Development
 - 🏆 Competitive Programmer with **1000+ solved problems**
